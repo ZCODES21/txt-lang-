@@ -15,12 +15,15 @@ export default function Drizzy() {
       font-size="16"
       font-weight="bold"
     >
-      D
-      R
-      I
-      Z
-      Z
-      Y
+    Z
+    E
+    R
+    O
+    C
+    O
+    D
+    E
+    S
     </text>
   </svg>
 </div>
